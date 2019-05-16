@@ -4,9 +4,7 @@ Simple self-hosted music scrobble database to create personal listening statisti
 
 You can check [my own Maloja page](https://maloja.krateng.ch) to see what it looks like.
 
-## Never Asked Questions
-
-### Why not Last.fm / Libre.fm / GNU FM?
+## Why not Last.fm / Libre.fm / GNU FM?
 
 Maloja is **self-hosted**. You will always be able to access your data in an easily-parseable format. Your library is not synced with any public or official music database, so you can **follow your own tagging schema** or even **group associated artists together** in your charts.
 
